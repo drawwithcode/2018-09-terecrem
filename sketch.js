@@ -221,7 +221,7 @@ text('1,352milioni',point.x-20,point.y-20)
  textStyle('bold')
  textSize(22)
  fill('#c30081')
- text('Discover the abitants of main cities in Italy ',400,40)
+ text(' how many people live in Italian cities? ',400,40)
 
 
 
